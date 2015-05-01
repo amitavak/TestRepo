@@ -5,7 +5,7 @@ Here is the list of android versions
 	2. Honey Comb
 
 Let's add some flowers name
-	1. Rose
+	1. Rose //Symbol of love
 	2. Lotus
 	3. Amaryllis
 	4. Lily
