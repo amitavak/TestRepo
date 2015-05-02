@@ -10,7 +10,7 @@ Let's add some flowers name
 	2. Lotus //beautifull flower
 	3. Amaryllis
 	4. Lily
-	5. Sunflower
+	5. Sunflower //always face the sun
 	6. Water-Lili
 	7. Tulip
 	8. Dalia
